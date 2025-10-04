@@ -1,0 +1,30 @@
+.index-overlay{
+    
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(../assets/1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    color: white;
+    
+}
+.create{
+    background-color: rgb(127, 1, 155);
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    font-size: 17px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.create:hover{
+    background-color: rgb(13, 98, 14);
+    color: black;
+    transition: all 0.3s ease-in-out;
+    
+}
+
+.blog{
+    color: orangered;
+}

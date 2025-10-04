@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', 'Poppins', 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+
+.blog-card{
+    background-color: rgb(2, 38, 77);
+    color: white;
+    padding: 19px;
+    border-radius: 5px;
+
+}
+
